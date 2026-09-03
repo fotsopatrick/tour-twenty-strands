@@ -2,6 +2,8 @@
 
 Construit pour le concours **Agents for Humans Hackathon** (AWS / Strands).
 
+📋 **[La présentation en une page](https://claude.ai/code/artifact/bfcd36a0-a7c5-40c6-9d05-c45fabf9d537)** — le pitch, le schéma du circuit, les chiffres mesurés.
+
 ## Le problème, en une phrase
 
 Chaque matin, des affaires dorment dans le CRM parce que personne n'a eu le
